@@ -1,0 +1,38 @@
+export const testimonials = [
+  {
+    id: 1,
+    name: "Arjun Mehta",
+    college: "Now at IIT Bombay",
+    avatar: "AM",
+    rating: 5,
+    text: "I was completely lost after my first attempt. One session with Aarav gave me a 90-day plan that actually worked. Got AIR 891 in my second attempt. Crackd literally changed my life.",
+    gradient: "from-indigo-500 to-purple-600",
+  },
+  {
+    id: 2,
+    name: "Divya Krishnan",
+    college: "Now at IIT Madras",
+    avatar: "DK",
+    rating: 5,
+    text: "Priya's session was worth every rupee. She told me exactly which chapters to prioritise in Chemistry and which to skip. My score jumped from 180 to 267 in two months.",
+    gradient: "from-pink-500 to-rose-500",
+  },
+  {
+    id: 3,
+    name: "Sahil Verma",
+    college: "Now at NIT Trichy",
+    avatar: "SV",
+    rating: 5,
+    text: "As a dropper from a small town, I had no idea how to approach the exam. Karthik was incredibly patient and gave me a realistic, no-BS plan. Best ₹299 I ever spent.",
+    gradient: "from-emerald-500 to-teal-600",
+  },
+  {
+    id: 4,
+    name: "Pooja Agarwal",
+    college: "Now at IIT Delhi",
+    avatar: "PA",
+    rating: 5,
+    text: "I was panicking 3 months before JEE. Ananya's session calmed me down and showed me exactly what was possible. She said I could hit 280+ and I hit 291. Unreal.",
+    gradient: "from-violet-500 to-purple-700",
+  },
+];
